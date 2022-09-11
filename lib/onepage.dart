@@ -15,7 +15,8 @@ class MyHomePage extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
               Image.network(
-              'https://www.seriouseats.com/thmb/BJiK216mCmsv-F3MFfnJEnjRT44=/1500x1125/filters:fill(auto,1)/20210607-INNOUTBURGERS-JANJIGIAN-seriouseats-23-b2b8a505ff414272aab71590a8985b85.jpg'),
+               "https://shamlola.s3.amazonaws.com/Shamlola_Images/7/src/7d63e3088cd4f45c20dac8671bb3eea1d98a22c5.jpg"),
+
           Padding(
             padding: const EdgeInsets.only(right: 20, left: 20, top: 20),
             child: Text(
